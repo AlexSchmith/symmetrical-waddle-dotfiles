@@ -1,0 +1,5 @@
+2022/10/05-16:04:45.754 29dc9 Reusing MANIFEST /home/solardebris/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/10/05-16:04:45.754 29dc9 Recovering log #3
+2022/10/05-16:04:45.755 29dc9 Level-0 table #3: started
+2022/10/05-16:04:45.768 29dc9 Level-0 table #3: 505094 bytes OK
+2022/10/05-16:04:45.769 29dc9 Delete type=0 #3
